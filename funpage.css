@@ -1,0 +1,44 @@
+.img {
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    border-style: solid;
+    border-color: lime;
+    border-width: 1px;
+}
+
+.middle {
+    text-align: center;
+    font-family: monospace;
+    font-size: 60px;
+    color: limegreen;
+}
+
+body {
+    background-color: rgb(39, 38, 38);
+}
+
+.c1 {
+    color: limegreen;
+    font-family: monospace;
+    font-size: 18px;
+}
+
+.c2 {
+    color: white;
+    font-family: monospace;
+    font-size: 20px;
+}
+
+.c3 {
+    color: white;
+    font-family: monospace;
+    font-size: 30px;
+}
+
+.sourced {
+    color: white;
+    margin-left: auto;
+}
